@@ -24,6 +24,7 @@ https://www.youtube.com/watch?v=LQcaN2Esy3Y&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6
 Установлены Турбо Си 2.01,Борланд Си ++, Нортон коммандер, CTMOUSE, кейрус, игра Принц Персии, и просмотрщики графических файлов LXPIC.COM, CVIEW.EXE, 2SHOW.EXE
  
 English 
+
 books_turboc_borlandc_game_barkakati_msdos_windows311_frolov_figurnov_zharov -
   retro books in a multivolume archive under a password. Password Standard. Watch the video.
 
