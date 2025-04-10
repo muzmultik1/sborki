@@ -48,6 +48,6 @@ https://www.youtube.com/watch?v=LQcaN2Esy3Y&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6
  Unzip and drag the bat files to the DosBox window.
  Contains an example of a game in C.
  Installed Turbo C 2.01, Borland C ++, Norton Commander, CTMOUSE, Keyrus, Prince of Persia game, and graphic file viewers LXPIC.COM, CVIEW.EXE, 2SHOW.EXE
-  Password https://www.youtube.com/watch?v=xNuf5CyYMDQ&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
+  Password in video https://www.youtube.com/watch?v=xNuf5CyYMDQ&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
 
 
