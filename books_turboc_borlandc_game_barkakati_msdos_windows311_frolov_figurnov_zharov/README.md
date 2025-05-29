@@ -1,4 +1,6 @@
 Скачать весь репозитарий. На заглавной странице https://github.com/muzmultik1/sborki щелкнуть по зеленой кнопке CODE. И нажать download zip.
+пароль на архив в конце ролика 
+https://www.youtube.com/watch?v=9T3NJkMuMcI&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
 
 Скачать один файл. Щёлкнуть по файлу. Переходим в другое окно. Затем нажать на значок скачать Download raw file.
 
