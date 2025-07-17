@@ -3,7 +3,7 @@
 books_turboc_borlandc_game_barkakati_msdos_windows311_frolov_figurnov_zharov -
  ретро книги в многотомном архиве под паролем. Пароль Стандартный. Смотри видео.
  
-00_dosbox_svndaum2015.exe  - эмулятор DosBox Svn Daum 2015 год.
+00_dosbox1_svndaum_2015.exe  - эмулятор DosBox Svn Daum 2015 год.
 
 00_npp.8.7.7.portable.x64.zip - Нотпад ++
 
@@ -24,12 +24,19 @@ https://www.youtube.com/watch?v=LQcaN2Esy3Y&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6
 Установлены Турбо Си 2.01,Борланд Си ++, Нортон коммандер, CTMOUSE, кейрус, игра Принц Персии, и просмотрщики графических файлов LXPIC.COM, CVIEW.EXE, 2SHOW.EXE
  Пароль тут https://www.youtube.com/watch?v=xNuf5CyYMDQ&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
  
+Ретро опыт №5. Dosbox. Turbo C. Borland C++. 
+Чтение, запись и вывод на экран PCX, BMP, PNM, HSI RAW  файлов. Цветность: CGA, EGA, TANDY, VGA,4, 16, 256, 32К, 64К, 24 bit. 
+Удалось Вывести в Turbo C, Borland C++ 16 милионов цветов в DosBox X 2025 при помощи старой версии BGI драйверов. 
+Смотри ролик либо в архиве(пароль в конце ролика) 03_dosbox_borland_c_turbo_c_game.rar  файл readme_code. 
+https://www.youtube.com/watch?v=e4v0Yc_Rim8&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
+ 
+ 
 English 
 
 books_turboc_borlandc_game_barkakati_msdos_windows311_frolov_figurnov_zharov -
   retro books in a multivolume archive under a password. Password Standard. Watch the video.
 
-00_dosbox_svndaum2015.exe - DosBox Svn Daum emulator 2015.
+00_dosbox1_svndaum_2015.exe - DosBox Svn Daum emulator 2015.
 
 00_npp.8.7.7.portable.x64.zip - Notepad ++
 
@@ -51,3 +58,8 @@ https://www.youtube.com/watch?v=LQcaN2Esy3Y&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6
   Password in video https://www.youtube.com/watch?v=xNuf5CyYMDQ&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
 
 
+Retro experience №5. Dosbox. Turbo C. Borland C++.
+Reading, writing and displaying PCX, BMP, PNM, HSI RAW files. Color: CGA, EGA, TANDY, VGA, 4, 16, 256, 32K, 64K, 24 bit.
+Managed to Display 16 million colors in Turbo C, Borland C++ in DosBox X 2025 using the old version of BGI drivers.
+Watch the video or in the archive (password at the end of the video) 03_dosbox_borland_c_turbo_c_game.rar file readme_code.
+https://www.youtube.com/watch?v=e4v0Yc_Rim8&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
