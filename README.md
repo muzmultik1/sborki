@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=LQcaN2Esy3Y&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6
 Чтение, запись и вывод на экран PCX, BMP, PNM, HSI RAW  файлов. Цветность: CGA, EGA, TANDY, VGA,4, 16, 256, 32К, 64К, 24 bit. 
 Удалось Вывести в Turbo C, Borland C++ 16 милионов цветов в DosBox X 2025 при помощи старой версии BGI драйверов. 
 Смотри ролик либо в архиве(пароль в конце ролика) 03_dosbox_borland_c_turbo_c_game.rar  файл readme_code. 
-https://www.youtube.com/watch?v=WSD_p5C6-7M&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
+https://www.youtube.com/watch?v=BuckBt_Tgbs&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
  
  
 English 
@@ -62,4 +62,4 @@ Retro experience №5. Dosbox. Turbo C. Borland C++.
 Reading, writing and displaying PCX, BMP, PNM, HSI RAW files. Color: CGA, EGA, TANDY, VGA, 4, 16, 256, 32K, 64K, 24 bit.
 Managed to Display 16 million colors in Turbo C, Borland C++ in DosBox X 2025 using the old version of BGI drivers.
 Watch the video or in the archive (password at the end of the video) 03_dosbox_borland_c_turbo_c_game.rar file readme_code.
-https://www.youtube.com/watch?v=WSD_p5C6-7M&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
+https://www.youtube.com/watch?v=BuckBt_Tgbs&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
