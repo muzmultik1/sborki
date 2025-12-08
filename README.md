@@ -5,7 +5,7 @@ books_turboc_borlandc_game_barkakati_msdos_windows311_frolov_figurnov_zharov -
  
 00_dosbox1_svndaum_2015.exe  - эмулятор DosBox Svn Daum 2015 год.
 
-00_npp.8.7.7.portable.x64.zip - Нотпад ++
+00_npp.8.7.7.portable.x64.rar - Нотпад ++
 
 00_virtual_disk_work_prog.rar -  программы для работы с образами виртуальных машин.
  ImDisk, UltraISO, WinImage, osfmount, PCemuFileInjector
@@ -38,7 +38,7 @@ books_turboc_borlandc_game_barkakati_msdos_windows311_frolov_figurnov_zharov -
 
 00_dosbox1_svndaum_2015.exe - DosBox Svn Daum emulator 2015.
 
-00_npp.8.7.7.portable.x64.zip - Notepad ++
+00_npp.8.7.7.portable.x64.rar- Notepad ++
 
 00_virtual_disk_work_prog.rar - programs for working with virtual machine images.
 ImDisk, UltraISO, WinImage, osfmount, PCemuFileInjector
