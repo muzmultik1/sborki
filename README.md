@@ -33,6 +33,7 @@ https://www.youtube.com/watch?v=LQcaN2Esy3Y&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6
 Смотри ролик либо в архиве(пароль в конце ролика) 03_dosbox_borland_c_turbo_c_game.rar  файл readme_code. 
 https://www.youtube.com/watch?v=BuckBt_Tgbs&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
  
+04_dosbox_borland_c_wolfenstein_3d.rar 
 Ретро опыт №6. Dosbox. Исходные коды Wolfenstein 3D. Borland C++. CPU 8086. CGA TANDY VGA. download. 
  Здесь вы сможете скачать. Два редактора карт для DOS. 
 WOLFMAP - Wolfenstein 3D Map Processor. 1992  
@@ -90,7 +91,7 @@ Managed to Display 16 million colors in Turbo C, Borland C++ in DosBox X 2025 us
 Watch the video or in the archive (password at the end of the video) 03_dosbox_borland_c_turbo_c_game.rar file readme_code.
 https://www.youtube.com/watch?v=BuckBt_Tgbs&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
 
-
+04_dosbox_borland_c_wolfenstein_3d.rar
 Retro Experiment №6. Dosbox. Wolfenstein 3D Source Code. Borland C++. 8086 CPU. CGA, Tandy, VGA. Download.
 
 Here you can download two map editors for DOS.
