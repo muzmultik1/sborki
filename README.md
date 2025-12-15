@@ -12,7 +12,8 @@ books_turboc_borlandc_game_barkakati_msdos_windows311_frolov_figurnov_zharov -
 00_virtual_disk_work_prog.rar -  программы для работы с образами виртуальных машин.
  ImDisk, UltraISO, WinImage, osfmount, PCemuFileInjector
  Пароль Стандартный. Смотри видео. 
-00_winrar_x64_711.exe - Архиватор WinRar.
+00_winrar_x32_701.exe  Архиватор WinRar 7.01 32 bit
+00_winrar_x64_711.exe - Архиватор WinRar 7.11 64 bit.
 
 01_02_zx_spectrum.rar - архив программ  под паролем для работы Hisoft pascal и Hisoft C.
  Для того чтобы узнать пароль смотрите в конце ролика. Канал на youtube.com @muzmultik168
@@ -69,7 +70,8 @@ books_turboc_borlandc_game_barkakati_msdos_windows311_frolov_figurnov_zharov -
 00_virtual_disk_work_prog.rar - programs for working with virtual machine images.
 ImDisk, UltraISO, WinImage, osfmount, PCemuFileInjector
 Password Standard. Watch the video.
-00_winrar_x64_711.exe - WinRar archiver.
+00_winrar_x32_701.exe WinRar archiver 7.01 32 bit
+00_winrar_x64_711.exe - WinRar archiver 7.11 64 bit.
 
 01_02_zx_spectrum.rar - archive of programs under password for Hisoft pascal and Hisoft C.
 To find out the password, watch at the end of the video. Channel on youtube.com @muzmultik168
