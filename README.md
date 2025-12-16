@@ -1,9 +1,12 @@
+https://www.youtube.com/@muzmultik168
+https://github.com/muzmultik1/sborki
+
 Что содержат архивы и файлы
 
 books_turboc_borlandc_game_barkakati_msdos_windows311_frolov_figurnov_zharov -
  ретро книги в многотомном архиве под паролем. Пароль Стандартный. Смотри видео.
  
-00_dosbox1_svndaum_2015.exe  - эмулятор DosBox Svn Daum 2015 год.
+00_dosbox1_svndaum_2015.exe  - эмулятор DosBox Svn Daum 2015 год.На некоторых видеокартах глючит использовать версию 2014 года.
 00_dosbox2_x_windows_2025.exe - эмулятор DosBox -X 2025 год.
 00_dosbox_svn_daum2014.rar - эмулятор DosBox Svn Daum 2014 год. Чуть менее глючный чем  2015.
 
@@ -51,7 +54,7 @@ MAPEDIT Version 8.4. 1994.
 Исходники русской версии игры.
 
 Таже тут присутствуют сама игра нескольких версий. APOGEE, Activision. 1.4, 1.4g. DEMO.
-Также присутствует мод Mortal Combat.
+Также присутствует мод Mortal Combat, Street Fighter 2.
 И мод на 800 уровней Wolfenstein 3-D 8oo Room Add-On.
 Пароль в начале ролика 
  https://www.youtube.com/watch?v=Cap-Xp8Hmu4&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ 
@@ -63,7 +66,7 @@ English
 books_turboc_borlandc_game_barkakati_msdos_windows311_frolov_figurnov_zharov -
   retro books in a multivolume archive under a password. Password Standard. Watch the video.
 
-00_dosbox1_svndaum_2015.exe - DosBox Svn Daum emulator 2015.
+00_dosbox1_svndaum_2015.exe - DosBox Svn Daum emulator 2015.Some video cards have issues using the 2014 version.
 00_dosbox2_x_windows_2025.exe - DosBox -X emulator from 2025.
 00_dosbox_svn_daum2014.rar - DosBox Svn Daum emulator from 2014. Slightly less buggy than 2015.
 
@@ -117,7 +120,9 @@ Source code compatible with command-line compilation.
 Sources for the Russian version of the game.
 
 The game itself is also available in several versions: APOGEE, Activision, 1.4, 1.4g, and DEMO.
-A Mortal Combat mod is also included.
+A Mortal Combat mod is also included, Street Fighter 2 mod.
 And an 800-level Wolfenstein 3-D 8oo Room Add-On mod.
 The password is at the beginning of the video.
 https://www.youtube.com/watch?v=Cap-Xp8Hmu4&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
+
+https://www.youtube.com/@muzmultik168 
