@@ -10,7 +10,7 @@ https://github.com/muzmultik1/sborki
 
 The password for the archive is at the end of the video.
 
-https://www.youtube.com/watch?v=UwJhFew02fY&list=PLxau7wqNIg3isPpA8ubTN0iorCRyAJXLZ
+https://www.youtube.com/watch?v=FJC8nANXWs0&list=PLxau7wqNIg3isPpA8ubTN0iorCRyAJXLZ 
 
 Архиватор WinRar 7.01 WinRar
 
