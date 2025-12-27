@@ -121,6 +121,10 @@ https://www.youtube.com/watch?v=LQcaN2Esy3Y&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6
  Installed Turbo C 2.01, Borland C ++, Norton Commander, CTMOUSE, Keyrus, Prince of Persia game, and graphic file viewers LXPIC.COM, CVIEW.EXE, 2SHOW.EXE
   Password in video https://www.youtube.com/watch?v=xNuf5CyYMDQ&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
 
+Retro Experience №4. A simple C game. Borland C++ 3.1 and DosBox. Reading PCX and 16-color BMP files.
+Let's go back to the 90s and see what we could do on a computer with limited resources (time, money, knowledge).
+https://www.youtube.com/watch?v=9T3NJkMuMcI&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
+
 
 Retro experience №5. Dosbox. Turbo C. Borland C++.
 Reading, writing and displaying PCX, BMP, PNM, HSI RAW files. Color: CGA, EGA, TANDY, VGA, 4, 16, 256, 32K, 64K, 24 bit.
