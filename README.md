@@ -9,23 +9,23 @@ books_turboc_borlandc_game_barkakati_msdos_windows311_frolov_figurnov_zharov -
  ретро книги в многотомном архиве под паролем. Пароль Стандартный. Смотри видео.
  
     00_dosbox1_svndaum_2015.exe
-- эмулятор DosBox Svn Daum 2015 год.На некоторых видеокартах глючит использовать версию 2014 года.
+эмулятор DosBox Svn Daum 2015 год.На некоторых видеокартах глючит использовать версию 2014 года.
 
     00_dosbox2_x_windows_2025.exe
-	
-- эмулятор DosBox -X 2025 год.
+
+эмулятор DosBox -X 2025 год.
 
     00_dosbox_svn_daum2014.rar
 
-- эмулятор DosBox Svn Daum 2014 год. Чуть менее глючный чем  2015.
+эмулятор DosBox Svn Daum 2014 год. Чуть менее глючный чем  2015.
 
     00_npp.8.7.7.portable.x64.rar 
 
-- Нотпад ++
+Нотпад ++
 
     00_virtual_disk_work_prog.rar
 
--  программы для работы с образами виртуальных машин.
+программы для работы с образами виртуальных машин.
  ImDisk, UltraISO, WinImage, osfmount, PCemuFileInjector
  Пароль Стандартный. Смотри видео. 
 
@@ -36,7 +36,7 @@ books_turboc_borlandc_game_barkakati_msdos_windows311_frolov_figurnov_zharov -
 
     00_winrar_x64_711.exe
 
-- Архиватор WinRar 7.11 64 bit.
+Архиватор WinRar 7.11 64 bit.
 
     01_02_zx_spectrum.rar
 
