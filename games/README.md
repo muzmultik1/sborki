@@ -54,6 +54,9 @@ https://www.youtube.com/watch?v=VnM-MIbYBgo&list=PLxau7wqNIg3isPpA8ubTN0iorCRyAJ
     02_crazy_ machines_complete_en.part3.rar
   Английская версия игры Заработало Сrazy  Machines 1- я часть. 4-ре игры
 
+В английской версии 1-я и 2-я часть находиться в первой игре надо менять только лаборатории.
+In the English version, Parts 1 and 2 are in the first game; you only need to change the labs.
+
 Crazy Machines: Inventors Workshop (Заработало! Мастерская изобретателя)
 
 Crazy Machines: New Challenges (Заработало! Новые испытания)
