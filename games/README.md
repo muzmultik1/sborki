@@ -4,7 +4,7 @@ https://www.youtube.com/@muzmultik168
 https://github.com/muzmultik1/sborki
 
 
-00_qbeez_2.rar - Игра QBeez 2. Аналог кликомании. Для Бухгалтеров 
+    00_qbeez_2.rar - Игра QBeez 2. Аналог кликомании. Для Бухгалтеров 
 
 Пароль на архив вконце ролика 
 
@@ -18,11 +18,11 @@ https://www.youtube.com/watch?v=FJC8nANXWs0&list=PLxau7wqNIg3isPpA8ubTN0iorCRyAJ
 
 
 
-01_zarabotalo_4_in_1_rus.part1.rar
-01_zarabotalo_4_in_1_rus.part2.rar
-01_zarabotalo_4_in_1_rus.part3.rar
-  Игра для развития мозгов Заработало. 1-я Часть. 4-ре Игры
-   Crazy Machines
+    01_zarabotalo_4_in_1_rus.part1.rar
+    01_zarabotalo_4_in_1_rus.part2.rar
+    01_zarabotalo_4_in_1_rus.part3.rar
+Игра для развития мозгов Заработало. 1-я Часть. 4-ре Игры
+Crazy Machines
 
      Crazy Machines: Inventors Workshop (Заработало! Мастерская изобретателя)
      Crazy Machines: New Challenges (Заработало! Новые испытания)
@@ -46,15 +46,17 @@ https://www.youtube.com/watch?v=FJC8nANXWs0&list=PLxau7wqNIg3isPpA8ubTN0iorCRyAJ
 Как играть и создавать свои эксперементы смотрив ролике
 https://www.youtube.com/watch?v=VnM-MIbYBgo&list=PLxau7wqNIg3isPpA8ubTN0iorCRyAJXLZ
 
-02_crazy_ machines_complete_en.part1.rar
-02_crazy_ machines_complete_en.part2.rar
-02_crazy_ machines_complete_en.part3.rar
+    02_crazy_ machines_complete_en.part1.rar
+    02_crazy_ machines_complete_en.part2.rar
+    02_crazy_ machines_complete_en.part3.rar
   Английская версия игры Заработало Сrazy  Machines 1- я часть. 4-ре игры
+
      Crazy Machines: Inventors Workshop (Заработало! Мастерская изобретателя)
      Crazy Machines: New Challenges (Заработало! Новые испытания)
      Crazy Machines 1.5 — две следующие игры в одном на движке второй
      Crazy Machines: New From The Lab (Заработало! Повелитель механизмов)
      Crazy Machines: Play All Family (Заработало! Играет вся семья) — в Steam переиздана как Crazy Machines: Inventors Training Camp
+  
   
 Tested and works on Windows 10, 7, and XP.
 English version.
