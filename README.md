@@ -10,26 +10,36 @@ books_turboc_borlandc_game_barkakati_msdos_windows311_frolov_figurnov_zharov -
  
     00_dosbox1_svndaum_2015.exe
 - эмулятор DosBox Svn Daum 2015 год.На некоторых видеокартах глючит использовать версию 2014 года.
+
     00_dosbox2_x_windows_2025.exe
+	
 - эмулятор DosBox -X 2025 год.
+
     00_dosbox_svn_daum2014.rar
+	
 - эмулятор DosBox Svn Daum 2014 год. Чуть менее глючный чем  2015.
 
     00_npp.8.7.7.portable.x64.rar 
+
 - Нотпад ++
 
     00_virtual_disk_work_prog.rar
+
 -  программы для работы с образами виртуальных машин.
  ImDisk, UltraISO, WinImage, osfmount, PCemuFileInjector
  Пароль Стандартный. Смотри видео. 
- 
+
+
     00_winrar_x32_701.exe
+
 Архиватор WinRar 7.01 32 bit
 
     00_winrar_x64_711.exe
+
 - Архиватор WinRar 7.11 64 bit.
 
     01_02_zx_spectrum.rar
+
 - архив программ  под паролем для работы Hisoft pascal и Hisoft C.
  Для того чтобы узнать пароль смотрите в конце ролика. Канал на youtube.com @muzmultik168
 
@@ -38,6 +48,7 @@ https://www.youtube.com/watch?v=mCV2PCAyqec&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6
 https://www.youtube.com/watch?v=LQcaN2Esy3Y&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
 
     03_dosbox_borland_c_turbo_c_game.rar
+
 – Каталог  для DosBox Svn Daum 2015 года. 
 Разархивируем и перетаскиваем бат файлы на окно DosBox. 
 Содержит пример игры на языке Си.
@@ -51,6 +62,7 @@ https://www.youtube.com/watch?v=LQcaN2Esy3Y&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6
 https://www.youtube.com/watch?v=BuckBt_Tgbs&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
  
     04_dosbox_borland_c_wolfenstein_3d.rar 
+
 Ретро опыт №6. Dosbox. Исходные коды Wolfenstein 3D. Borland C++. CPU 8086. CGA TANDY VGA. download. 
  Здесь вы сможете скачать. Два редактора карт для DOS. 
 WOLFMAP - Wolfenstein 3D Map Processor. 1992  
