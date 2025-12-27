@@ -55,6 +55,11 @@ https://www.youtube.com/watch?v=LQcaN2Esy3Y&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6
 Установлены Турбо Си 2.01,Борланд Си ++, Нортон коммандер, CTMOUSE, кейрус, игра Принц Персии, и просмотрщики графических файлов LXPIC.COM, CVIEW.EXE, 2SHOW.EXE
  Пароль тут https://www.youtube.com/watch?v=xNuf5CyYMDQ&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
  
+Ретро-опыт №4. Простая игра на Си. Borland С++ 3.1 и DosBox.Чтение PCX, BMP файлов 16 цветов.
+ Перенесемся в 90 годы и посмотрим чтоб мы могли сделать на компьютере при ограниченных ресурсах(Время, деньги, знания). 
+ https://www.youtube.com/watch?v=9T3NJkMuMcI&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ 
+ 
+ 
 Ретро опыт №5. Dosbox. Turbo C. Borland C++. 
 Чтение, запись и вывод на экран PCX, BMP, PNM, HSI RAW  файлов. Цветность: CGA, EGA, TANDY, VGA,4, 16, 256, 32К, 64К, 24 bit. 
 Удалось Вывести в Turbo C, Borland C++ 16 милионов цветов в DosBox X 2025 при помощи старой версии BGI драйверов. 
