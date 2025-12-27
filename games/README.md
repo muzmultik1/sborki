@@ -12,9 +12,7 @@ The password for the archive is at the end of the video.
 
 https://www.youtube.com/watch?v=FJC8nANXWs0&list=PLxau7wqNIg3isPpA8ubTN0iorCRyAJXLZ 
 
-Архиватор WinRar 7.01 WinRar
-
-    00_winrar_x32_701.exe
+Архиватор WinRar 7.01 WinRar В папке выше 00_winrar_x32_701.exe
 
 
 
@@ -24,11 +22,16 @@ https://www.youtube.com/watch?v=FJC8nANXWs0&list=PLxau7wqNIg3isPpA8ubTN0iorCRyAJ
 Игра для развития мозгов Заработало. 1-я Часть. 4-ре Игры
 Crazy Machines
 
-     Crazy Machines: Inventors Workshop (Заработало! Мастерская изобретателя)
-     Crazy Machines: New Challenges (Заработало! Новые испытания)
-     Crazy Machines 1.5 — две следующие игры в одном на движке второй
-     Crazy Machines: New From The Lab (Заработало! Повелитель механизмов)
-     Crazy Machines: Play All Family (Заработало! Играет вся семья) — в Steam переиздана как Crazy Machines: Inventors Training Camp
+Crazy Machines: Inventors Workshop (Заработало! Мастерская изобретателя)
+
+Crazy Machines: New Challenges (Заработало! Новые испытания)
+
+Crazy Machines 1.5 — две следующие игры в одном на движке второй
+
+Crazy Machines: New From The Lab (Заработало! Повелитель механизмов)
+
+Crazy Machines: Play All Family (Заработало! Играет вся семья) — в Steam переиздана как Crazy Machines: Inventors Training Camp
+
 
 
   Проверено работает на Windows 10,7,XP.
@@ -51,11 +54,16 @@ https://www.youtube.com/watch?v=VnM-MIbYBgo&list=PLxau7wqNIg3isPpA8ubTN0iorCRyAJ
     02_crazy_ machines_complete_en.part3.rar
   Английская версия игры Заработало Сrazy  Machines 1- я часть. 4-ре игры
 
-     Crazy Machines: Inventors Workshop (Заработало! Мастерская изобретателя)
-     Crazy Machines: New Challenges (Заработало! Новые испытания)
-     Crazy Machines 1.5 — две следующие игры в одном на движке второй
-     Crazy Machines: New From The Lab (Заработало! Повелитель механизмов)
-     Crazy Machines: Play All Family (Заработало! Играет вся семья) — в Steam переиздана как Crazy Machines: Inventors Training Camp
+Crazy Machines: Inventors Workshop (Заработало! Мастерская изобретателя)
+
+Crazy Machines: New Challenges (Заработало! Новые испытания)
+
+Crazy Machines 1.5 — две следующие игры в одном на движке второй
+
+Crazy Machines: New From The Lab (Заработало! Повелитель механизмов)
+
+Crazy Machines: Play All Family (Заработало! Играет вся семья) — в Steam переиздана как Crazy Machines: Inventors Training Camp
+
   
   
 Tested and works on Windows 10, 7, and XP.
