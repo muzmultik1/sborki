@@ -16,7 +16,7 @@ books_turboc_borlandc_game_barkakati_msdos_windows311_frolov_figurnov_zharov -
 - эмулятор DosBox -X 2025 год.
 
     00_dosbox_svn_daum2014.rar
-	
+
 - эмулятор DosBox Svn Daum 2014 год. Чуть менее глючный чем  2015.
 
     00_npp.8.7.7.portable.x64.rar 
