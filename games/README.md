@@ -81,3 +81,18 @@ System requirements in PDF file.
 Watch the video to learn how to play and create your own experiments.
 https://www.youtube.com/watch?v=VnM-MIbYBgo&list=PLxau7wqNIg3isPpA8ubTN0iorCRyAJXLZ
 
+
+    03_trenazher_mozga_rus.rar
+
+Тренажёр мозга. Интеллектуальная развивающийся игра для мозга.
+
+ Играем на компьютере  вместо Cмутных игр на смартфоне скачать
+
+Игра идет на Windows 10, Windows 7. Проверено идет на Windows Xp на эмуляторе Oracle Virtual Box.
+
+
+Как играть видео на канале вместе с паролем (password)
+https://www.youtube.com/watch?v=EMmnFZlx0n0&list=PLxau7wqNIg3isPpA8ubTN0iorCRyAJXLZ 
+
+Only Russian version 
+
