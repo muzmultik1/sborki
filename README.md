@@ -88,6 +88,17 @@ MAPEDIT Version 8.4. 1994.
  https://www.youtube.com/watch?v=Cap-Xp8Hmu4&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ 
  
 
+    starcraft
+
+сслыка на скачивание 
+
+https://mega.nz/folder/elRnFRZb#H3CLiF_O2JOV0SAMNFS-Uw
+
+Пароль в начале ролика. Как играть тоже в ролике.  
+https://www.youtube.com/watch?v=Kl1R4sbZgl0&list=PLxau7wqNIg3isPpA8ubTN0iorCRyAJXLZ  
+
+
+
  
 English 
 
