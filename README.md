@@ -98,6 +98,10 @@ https://mega.nz/folder/elRnFRZb#H3CLiF_O2JOV0SAMNFS-Uw
 https://www.youtube.com/watch?v=Kl1R4sbZgl0&list=PLxau7wqNIg3isPpA8ubTN0iorCRyAJXLZ  
 
 
+Подробней
+
+https://github.com/muzmultik1/sborki/tree/main/starcraft
+
 
  
 English 
@@ -167,5 +171,21 @@ A Mortal Combat mod is also included, Street Fighter 2 mod.
 And an 800-level Wolfenstein 3-D 8oo Room Add-On mod.
 The password is at the beginning of the video.
 https://www.youtube.com/watch?v=Cap-Xp8Hmu4&list=PLxau7wqNIg3ioAvdMvxGLzaa-Eh1J6cnZ
+
+
+Starcraft
+
+Download links
+
+https://mega.nz/folder/elRnFRZb#H3CLiF_O2JOV0SAMNFS-Uw
+
+The password is at the beginning of the video. How to play is also in the video.
+
+https://www.youtube.com/watch?v=Kl1R4sbZgl0&list=PLxau7wqNIg3isPpA8ubTN0iorCRyAJXLZ
+
+More details
+
+https://github.com/muzmultik1/sborki/tree/main/starcraft
+
 
 https://www.youtube.com/@muzmultik168 
